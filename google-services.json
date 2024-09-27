@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820137314025",
+    "project_id": "instagramclone-acd81",
+    "storage_bucket": "instagramclone-acd81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820137314025:android:43e2cd3eeb705a4ff2d278",
+        "android_client_info": {
+          "package_name": "com.example.coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkuq95pzmS0g6Bz7OwqulE5jCbAQHs88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
