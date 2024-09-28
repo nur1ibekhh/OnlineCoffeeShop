@@ -86,31 +86,4 @@ $ git clone https://github.com/nur1ibekhh/OnlineCoffeeShop
 
 💬 Hit me up at
 
-<a href="https://www.instagram.com/nurlibekh__/"><img src="https://www.google.com/search?sca_esv=e1f926a63c79aa92&sca_upv=1&rlz=1C5CHFA_enUZ1070UZ1071&sxsrf=ADLYWILWV2wPS663fTUvaG4Ic_C25WRN_Q:1727501686302&q=instagram&udm=2&fbs=AEQNm0DBgqQHsdvmUZVZRyq7x9-GM8TiE2VbV2H5a-S0AyVyaGSxfsBGlChYG5cj2HV-ZwOqdtFThjdH5HczgynEjDhPxpt16y9mZsnkf30FQJmorQxPoHGWwyNav_vUPfTaeITJpruoRIdwD1uvvWaRfqTBxOzLaIzeiNa3KHzqoFXgM9vpwlvIMDht5EO6P7br3UpuiDsdI56MBxxggk0gto9A59G84A&sa=X&ved=2ahUKEwj5o_Gi9eSIAxWGBdsEHa86FoMQtKgLegQIGRAB&cshid=1727501795492914&biw=1512&bih=823&dpr=2#vhid=duH7bioFGBC-mM&vssid=mosaic.png" width="60"></a>
-- Or, open an issue on this repository!
-
-## License
-
-```
-MIT License
-
-Copyright (c) 2024 Haroon Majeed
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+<a href="https://www.instagram.com/nurlibekh__/"><img src="https://meta.m.wikimedia.org/wiki/File:Instagram_icon.png" width="60"></a>
