@@ -2,8 +2,6 @@
 
 A Coffee Shop app built with Kotlin, with some Java, and Firebase, focused on UI design, created as a quick project to test item addition to the cart functionality.
 
-- **APK File:** Download the latest `APK` file of this project and provide feedback 😃. [Download APK](https://github.com/HaroonBsf/Coffee-Shop/releases/download/v1.0.0/coffeeshop-1.0.0.apk)
-
 ## Features
 
  * **Premium UI:** Visually appealing, user-friendly, and attractively designed interface for an enhanced user experience.
@@ -35,8 +33,7 @@ A Coffee Shop app built with Kotlin, with some Java, and Firebase, focused on UI
 #### 2. Clone the Repo
 
 ```
-$ git clone https://github.com/HaroonBsf/Coffee-Shop
-$ cd Coffee-Shop/
+$ git clone https://github.com/nur1ibekhh/OnlineCoffeeShop
 ```
 
 #### 3. Setup Firebase Realtime Database
@@ -89,7 +86,7 @@ $ cd Coffee-Shop/
 
 💬 Hit me up at
 
-<a href="https://www.linkedin.com/in/haroonbsf/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
+<a href="https://www.instagram.com/nurlibekh__/"><img src="https://www.google.com/search?sca_esv=e1f926a63c79aa92&sca_upv=1&rlz=1C5CHFA_enUZ1070UZ1071&sxsrf=ADLYWILWV2wPS663fTUvaG4Ic_C25WRN_Q:1727501686302&q=instagram&udm=2&fbs=AEQNm0DBgqQHsdvmUZVZRyq7x9-GM8TiE2VbV2H5a-S0AyVyaGSxfsBGlChYG5cj2HV-ZwOqdtFThjdH5HczgynEjDhPxpt16y9mZsnkf30FQJmorQxPoHGWwyNav_vUPfTaeITJpruoRIdwD1uvvWaRfqTBxOzLaIzeiNa3KHzqoFXgM9vpwlvIMDht5EO6P7br3UpuiDsdI56MBxxggk0gto9A59G84A&sa=X&ved=2ahUKEwj5o_Gi9eSIAxWGBdsEHa86FoMQtKgLegQIGRAB&cshid=1727501795492914&biw=1512&bih=823&dpr=2#vhid=duH7bioFGBC-mM&vssid=mosaic.png" width="60"></a>
 - Or, open an issue on this repository!
 
 ## License
