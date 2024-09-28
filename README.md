@@ -49,7 +49,6 @@ $ cd Coffee-Shop/
       - Click on "Create Database."
       - Choose "Start in test mode" for initial setup and click "Enable."
 3. Add Data to Realtime Database:
-    - Download the provided [database_firebase.json](https://github.com/HaroonBsf/Coffee-Shop/releases/download/v1.0.0/database_firebase.json) file.
     - Go to the Firebase Realtime Database in the console.
     - Click on the three dots in the upper right corner and select Import JSON.
     - Choose the `database_firebase.json` file and import it to populate the database with initial data.
